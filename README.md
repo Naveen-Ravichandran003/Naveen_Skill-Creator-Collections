@@ -1,4 +1,4 @@
-# Skill Creator – AI Prompt Skills Portfolio
+# Skill Creator – AI Prompt Skill Library
 
 Welcome to the **Skill Creator** repository. This project serves as a centralized hub for various AI-powered "Skills"—specialized agents designed to assist with specific creative, technical, and professional tasks. Each skill is contained within its own dedicated folder and is tailored to perform distinct operations, from social media content generation to code quality assurance.
 
